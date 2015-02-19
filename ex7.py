@@ -1,5 +1,5 @@
 """
-ex6.py - More Printing
+ex7.py - More Printing
 
 Modified print statements for Python 3, and commented on how the code works.
 
