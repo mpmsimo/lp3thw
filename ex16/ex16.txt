@@ -1,3 +1,3 @@
-Hello world!
-It's great to see you everyday!
-Try to always be positive!
+Hello world
+Python is great
+OpenStack development

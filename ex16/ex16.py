@@ -56,7 +56,7 @@ mkdir ex16
 Let's move the script to the newly created directory.
 mv ex16.py ex16
 
-Afterwards we can create a new file.
+Afterwards we can create a new file. (This step is optional as w and w+ create the file if it doesn't exist.)
 touch ex16/ex16.txt
 
 Let's add some text, and then append another line.
